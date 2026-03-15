@@ -1,0 +1,3 @@
+[submodule "SindbadTutorials"]
+	path = SindbadTutorials
+	url = https://github.com/LandEcosystems/SindbadTutorials.jl
